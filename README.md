@@ -8,5 +8,5 @@ So I develop movie recommendation program to analyse rotten-tomatoes review data
 
 This project includes 
 1. Scrayping rotten-tomatoes review data with beautiful soup
-2. Visualingz data
+2. Visualingzing data
 3. Clustering the reviewer including myself
